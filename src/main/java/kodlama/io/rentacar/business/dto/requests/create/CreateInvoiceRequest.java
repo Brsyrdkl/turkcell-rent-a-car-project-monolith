@@ -1,6 +1,5 @@
 package kodlama.io.rentacar.business.dto.requests.create;
 
-import kodlama.io.rentacar.entities.Rental;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
