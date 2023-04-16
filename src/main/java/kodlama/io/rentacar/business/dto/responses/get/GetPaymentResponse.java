@@ -16,4 +16,5 @@ public class GetPaymentResponse {
     private int cardExpirationYear;
     private int cardExpirationMonth;
     private String cardCvv;
+    private double balance;
 }
